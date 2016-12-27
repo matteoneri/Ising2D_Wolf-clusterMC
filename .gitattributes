@@ -1,0 +1,5 @@
+data_wolf/* filter=lfs diff=lfs merge=lfs -text
+prof.cprof filter=lfs diff=lfs merge=lfs -text
+M_T_exact.txt filter=lfs diff=lfs merge=lfs -text
+E_T_exact.txt filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
